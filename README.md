@@ -42,5 +42,4 @@ Sebelum menjalankan bot ini, pastikan Anda telah memiliki:
 
 **1. Clone Repository**
 ```bash
-git clone [https://github.com/USERNAME_GITHUB_KAMU/NAMA_REPO_KAMU.git](https://github.com/USERNAME_GITHUB_KAMU/NAMA_REPO_KAMU.git)
-cd NAMA_REPO_KAMU
+https://github.com/Xbyzats/Bot-Order-Tele.git
